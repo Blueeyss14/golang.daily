@@ -9,7 +9,7 @@ func main() {
 		return
 	}
 
-	for i := 0; i < len(users); i++ {
-		fmt.Printf("Name: %s %s\nEmail: %s\n", users[i].FirstName, users[i].LastName, users[i].Email)
-	}
+	// for i := 0; i < len(users); i++ {
+	// 	fmt.Printf("Name: %s %s\nEmail: %s\n", users[i].FirstName, users[i].LastName, users[i].Email)
+	// }
 }
